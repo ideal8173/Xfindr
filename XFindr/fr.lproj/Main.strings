@@ -1,0 +1,174 @@
+
+/* Class = "UIButton"; normalTitle = "Connect with Facebook"; ObjectID = "1JF-vA-ofj"; */
+"1JF-vA-ofj.normalTitle" = "Connect with Facebook";
+
+/* Class = "UILabel"; text = "By Signup You Agree to our"; ObjectID = "3BU-OF-Oh5"; */
+"3BU-OF-Oh5.text" = "By Signup You Agree to our";
+
+/* Class = "UIButton"; normalTitle = "Email Address"; ObjectID = "4CX-MU-bqG"; */
+"4CX-MU-bqG.normalTitle" = "Email Address";
+
+/* Class = "UITabBarItem"; title = "Users"; ObjectID = "BZW-eQ-Mt1"; */
+"BZW-eQ-Mt1.title" = "Users";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "CDB-ka-g2M"; */
+"CDB-ka-g2M.text" = "OR";
+
+/* Class = "UIButton"; normalTitle = "Provider"; ObjectID = "CTs-F6-6nJ"; */
+"CTs-F6-6nJ.normalTitle" = "Provider";
+
+/* Class = "UILabel"; text = "Other Requirement: Cleaning - Cooking"; ObjectID = "D2w-Qy-NwI"; */
+"D2w-Qy-NwI.text" = "Other Requirement: Cleaning - Cooking";
+
+/* Class = "UILabel"; text = "Other: Cleaner - Personal Shopper"; ObjectID = "Dxu-60-3Fh"; */
+"Dxu-60-3Fh.text" = "Other: Cleaner - Personal Shopper";
+
+/* Class = "UIButton"; normalTitle = "Terms & Conditions"; ObjectID = "FKL-8x-43W"; */
+"FKL-8x-43W.normalTitle" = "Terms & Conditions";
+
+/* Class = "UITextField"; placeholder = "Keyword"; ObjectID = "GZf-6B-Kr5"; */
+"GZf-6B-Kr5.placeholder" = "Keyword";
+
+/* Class = "UIButton"; normalTitle = "Sign In Later"; ObjectID = "H1K-NA-yMT"; */
+"H1K-NA-yMT.normalTitle" = "Sign In Later";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HYJ-EP-kMw"; */
+"HYJ-EP-kMw.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Connect with Facebook"; ObjectID = "IMy-hS-JhJ"; */
+"IMy-hS-JhJ.normalTitle" = "Connect with Facebook";
+
+/* Class = "UIButton"; normalTitle = "Mobile Number"; ObjectID = "J1T-C7-YeR"; */
+"J1T-C7-YeR.normalTitle" = "Mobile Number";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "JDf-Q5-JyC"; */
+"JDf-Q5-JyC.normalTitle" = "Sign up";
+
+/* Class = "UILabel"; text = "Service(s)"; ObjectID = "K25-4I-e11"; */
+"K25-4I-e11.text" = "Service(s)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MZC-Yb-Aow"; */
+"MZC-Yb-Aow.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "NXO-J4-kq9"; */
+"NXO-J4-kq9.placeholder" = "Email Address";
+
+/* Class = "UILabel"; text = "Electracian"; ObjectID = "OvL-et-hjV"; */
+"OvL-et-hjV.text" = "Electracian";
+
+/* Class = "UILabel"; text = "Reqiuirement: Cleaner - Personal Shopper"; ObjectID = "QAW-26-SEq"; */
+"QAW-26-SEq.text" = "Reqiuirement: Cleaner - Personal Shopper";
+
+/* Class = "UILabel"; text = "Register with:"; ObjectID = "SRK-Bf-jlY"; */
+"SRK-Bf-jlY.text" = "Register with:";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "SrH-UJ-dsf"; */
+"SrH-UJ-dsf.normalTitle" = "Done";
+
+/* Class = "UITextField"; placeholder = "CC"; ObjectID = "TIt-46-IA7"; */
+"TIt-46-IA7.placeholder" = "CC";
+
+/* Class = "UITabBarItem"; title = "Explore More"; ObjectID = "VLM-X8-bdl"; */
+"VLM-X8-bdl.title" = "Explore More";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "Vd7-gC-udx"; */
+"Vd7-gC-udx.normalTitle" = "Logout";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "W9d-k3-yCH"; */
+"W9d-k3-yCH.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Dont't Have a Account ? Sign Up"; ObjectID = "Xiw-f8-V9d"; */
+"Xiw-f8-V9d.normalTitle" = "Dont't Have a Account ? Sign Up";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "XyQ-mD-mEn"; */
+"XyQ-mD-mEn.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "More About Me:"; ObjectID = "Y6R-P7-nFu"; */
+"Y6R-P7-nFu.text" = "More About Me:";
+
+/* Class = "UIButton"; normalTitle = "Miles"; ObjectID = "ZEW-5d-udn"; */
+"ZEW-5d-udn.normalTitle" = "Miles";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "aCz-YT-ouf"; */
+"aCz-YT-ouf.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "biG-RN-z7N"; */
+"biG-RN-z7N.placeholder" = "Mobile Number";
+
+/* Class = "UILabel"; text = "Please enter your registered email address to resret your password."; ObjectID = "eYb-Xj-19x"; */
+"eYb-Xj-19x.text" = "Please enter your registered email address to resret your password.";
+
+/* Class = "UILabel"; text = "5/5"; ObjectID = "fS6-7b-PD2"; */
+"fS6-7b-PD2.text" = "5/5";
+
+/* Class = "UILabel"; text = "Keyword(s) (optional)"; ObjectID = "g7K-QB-PIl"; */
+"g7K-QB-PIl.text" = "Keyword(s) (optional)";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "gcL-vw-zfh"; */
+"gcL-vw-zfh.title" = "Item";
+
+/* Class = "UITabBarItem"; title = "Favorite"; ObjectID = "h9U-Qu-6bj"; */
+"h9U-Qu-6bj.title" = "Favorite";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "iVC-hd-5HX"; */
+"iVC-hd-5HX.placeholder" = "Confirm Password";
+
+/* Class = "UILabel"; text = "Banner"; ObjectID = "jKF-un-q6E"; */
+"jKF-un-q6E.text" = "Banner";
+
+/* Class = "UITabBarItem"; title = "Chat"; ObjectID = "kso-qW-Pn9"; */
+"kso-qW-Pn9.title" = "Chat";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "l28-0x-cFs"; */
+"l28-0x-cFs.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "mPn-0L-1Ge"; */
+"mPn-0L-1Ge.text" = "OR";
+
+/* Class = "UIButton"; normalTitle = "Metric"; ObjectID = "olC-As-lVP"; */
+"olC-As-lVP.normalTitle" = "Metric";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "pOW-sF-yWc"; */
+"pOW-sF-yWc.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "pVc-my-rF0"; */
+"pVc-my-rF0.normalTitle" = "Save";
+
+/* Class = "UITabBarItem"; title = "Filter"; ObjectID = "q4q-np-xIh"; */
+"q4q-np-xIh.title" = "Filter";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "qJt-f7-bLU"; */
+"qJt-f7-bLU.normalTitle" = "Sign Up";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "qfu-MD-PBH"; */
+"qfu-MD-PBH.normalTitle" = "Forgot Password?";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "qoS-MH-0oe"; */
+"qoS-MH-0oe.normalTitle" = "Sign In";
+
+/* Class = "UILabel"; text = "David 25 year"; ObjectID = "r6L-Jc-fax"; */
+"r6L-Jc-fax.text" = "David 25 year";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "rrZ-Xk-39X"; */
+"rrZ-Xk-39X.normalTitle" = "Sign In";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "s1D-aq-8Wk"; */
+"s1D-aq-8Wk.text" = "Profile";
+
+/* Class = "UILabel"; text = "Welcome to Xfinder"; ObjectID = "sBh-rT-B3l"; */
+"sBh-rT-B3l.text" = "Welcome to Xfinder";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "t4d-Zh-gPh"; */
+"t4d-Zh-gPh.placeholder" = "Email Address";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tXR-fw-Ckh"; */
+"tXR-fw-Ckh.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Seeker"; ObjectID = "vAR-5c-1YO"; */
+"vAR-5c-1YO.normalTitle" = "Seeker";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "w7C-yh-ote"; */
+"w7C-yh-ote.placeholder" = "Email Address";
+
+/* Class = "UILabel"; text = "Welcome to Xfinder"; ObjectID = "ygQ-t1-VzO"; */
+"ygQ-t1-VzO.text" = "Welcome to Xfinder";
